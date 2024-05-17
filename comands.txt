@@ -1,0 +1,8 @@
+==> para iniciar um novo projeto com GO Lang:
+- go mod init <name_repository>
+
+==> para executar o código:
+- go run <file_name>
+
+==> para importar todas as libs que estão sendo utilizada no código
+- go mod tidy
